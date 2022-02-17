@@ -1,0 +1,15 @@
+C:\Users\abesnard\Nouveau dossier\cs\cs\generateurPhrase\generateurPhrase\bin\Debug\net6.0\generateurPhrase.exe
+C:\Users\abesnard\Nouveau dossier\cs\cs\generateurPhrase\generateurPhrase\bin\Debug\net6.0\generateurPhrase.deps.json
+C:\Users\abesnard\Nouveau dossier\cs\cs\generateurPhrase\generateurPhrase\bin\Debug\net6.0\generateurPhrase.runtimeconfig.json
+C:\Users\abesnard\Nouveau dossier\cs\cs\generateurPhrase\generateurPhrase\bin\Debug\net6.0\generateurPhrase.dll
+C:\Users\abesnard\Nouveau dossier\cs\cs\generateurPhrase\generateurPhrase\bin\Debug\net6.0\ref\generateurPhrase.dll
+C:\Users\abesnard\Nouveau dossier\cs\cs\generateurPhrase\generateurPhrase\bin\Debug\net6.0\generateurPhrase.pdb
+C:\Users\abesnard\Nouveau dossier\cs\cs\generateurPhrase\generateurPhrase\obj\Debug\net6.0\generateurPhrase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abesnard\Nouveau dossier\cs\cs\generateurPhrase\generateurPhrase\obj\Debug\net6.0\generateurPhrase.AssemblyInfoInputs.cache
+C:\Users\abesnard\Nouveau dossier\cs\cs\generateurPhrase\generateurPhrase\obj\Debug\net6.0\generateurPhrase.AssemblyInfo.cs
+C:\Users\abesnard\Nouveau dossier\cs\cs\generateurPhrase\generateurPhrase\obj\Debug\net6.0\generateurPhrase.csproj.CoreCompileInputs.cache
+C:\Users\abesnard\Nouveau dossier\cs\cs\generateurPhrase\generateurPhrase\obj\Debug\net6.0\generateurPhrase.dll
+C:\Users\abesnard\Nouveau dossier\cs\cs\generateurPhrase\generateurPhrase\obj\Debug\net6.0\ref\generateurPhrase.dll
+C:\Users\abesnard\Nouveau dossier\cs\cs\generateurPhrase\generateurPhrase\obj\Debug\net6.0\generateurPhrase.pdb
+C:\Users\abesnard\Nouveau dossier\cs\cs\generateurPhrase\generateurPhrase\obj\Debug\net6.0\generateurPhrase.genruntimeconfig.cache
+C:\Users\abesnard\Nouveau dossier\cs\cs\generateurPhrase\generateurPhrase\obj\Debug\net6.0\generateurPhrase.csproj.AssemblyReference.cache
