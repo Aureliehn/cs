@@ -1,0 +1,6 @@
+C:\Users\abesnard\Nouveau dossier\cs\cs\test-training\BankTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\abesnard\Nouveau dossier\cs\cs\test-training\BankTests\obj\Debug\net6.0\BankTests.csproj.AssemblyReference.cache
+C:\Users\abesnard\Nouveau dossier\cs\cs\test-training\BankTests\obj\Debug\net6.0\BankTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abesnard\Nouveau dossier\cs\cs\test-training\BankTests\obj\Debug\net6.0\BankTests.AssemblyInfoInputs.cache
+C:\Users\abesnard\Nouveau dossier\cs\cs\test-training\BankTests\obj\Debug\net6.0\BankTests.AssemblyInfo.cs
+C:\Users\abesnard\Nouveau dossier\cs\cs\test-training\BankTests\obj\Debug\net6.0\BankTests.csproj.CoreCompileInputs.cache

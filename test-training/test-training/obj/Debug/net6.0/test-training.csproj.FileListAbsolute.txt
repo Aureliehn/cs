@@ -1,0 +1,15 @@
+C:\Users\abesnard\Nouveau dossier\cs\cs\test-training\test-training\bin\Debug\net6.0\test-training.exe
+C:\Users\abesnard\Nouveau dossier\cs\cs\test-training\test-training\bin\Debug\net6.0\test-training.deps.json
+C:\Users\abesnard\Nouveau dossier\cs\cs\test-training\test-training\bin\Debug\net6.0\test-training.runtimeconfig.json
+C:\Users\abesnard\Nouveau dossier\cs\cs\test-training\test-training\bin\Debug\net6.0\test-training.dll
+C:\Users\abesnard\Nouveau dossier\cs\cs\test-training\test-training\bin\Debug\net6.0\ref\test-training.dll
+C:\Users\abesnard\Nouveau dossier\cs\cs\test-training\test-training\bin\Debug\net6.0\test-training.pdb
+C:\Users\abesnard\Nouveau dossier\cs\cs\test-training\test-training\obj\Debug\net6.0\test-training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abesnard\Nouveau dossier\cs\cs\test-training\test-training\obj\Debug\net6.0\test-training.AssemblyInfoInputs.cache
+C:\Users\abesnard\Nouveau dossier\cs\cs\test-training\test-training\obj\Debug\net6.0\test-training.AssemblyInfo.cs
+C:\Users\abesnard\Nouveau dossier\cs\cs\test-training\test-training\obj\Debug\net6.0\test-training.csproj.CoreCompileInputs.cache
+C:\Users\abesnard\Nouveau dossier\cs\cs\test-training\test-training\obj\Debug\net6.0\test-training.dll
+C:\Users\abesnard\Nouveau dossier\cs\cs\test-training\test-training\obj\Debug\net6.0\ref\test-training.dll
+C:\Users\abesnard\Nouveau dossier\cs\cs\test-training\test-training\obj\Debug\net6.0\test-training.pdb
+C:\Users\abesnard\Nouveau dossier\cs\cs\test-training\test-training\obj\Debug\net6.0\test-training.genruntimeconfig.cache
+C:\Users\abesnard\Nouveau dossier\cs\cs\test-training\test-training\obj\Debug\net6.0\test-training.csproj.AssemblyReference.cache
